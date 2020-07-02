@@ -54,7 +54,7 @@ namespace CS_ConcurrentBag_Example
             {
                 // Console.WriteLine(lstInt.TryTake(out i));
                  Console.WriteLine(JsonSerializer.Serialize(lstInt));
-                //Console.WriteLine(lstInt[i]);
+                //Console.WriteLine(lstInt[i]); 
                // Console.WriteLine($"Reading {i}");
             }
         }

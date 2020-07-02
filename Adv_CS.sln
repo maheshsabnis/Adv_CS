@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Strings", "CS_Strings\CS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_DefaultInterfaceMethods", "CS_DefaultInterfaceMethods\CS_DefaultInterfaceMethods.csproj", "{79FC685B-0010-4D2B-88BD-EB9DBBB0C449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Singleton", "CS_Singleton\CS_Singleton.csproj", "{B862D1FE-05C6-4162-B6C5-04E41F76C3A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Singleton", "CS_Singleton\CS_Singleton.csproj", "{B862D1FE-05C6-4162-B6C5-04E41F76C3A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_ConcurrentBag_Example", "CS_ConcurrentBag_Example\CS_ConcurrentBag_Example.csproj", "{392B6D9C-B506-48DE-8772-B67E7FA2D702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_ConcurrentBag_Example", "CS_ConcurrentBag_Example\CS_ConcurrentBag_Example.csproj", "{392B6D9C-B506-48DE-8772-B67E7FA2D702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_BlockingCollection", "CS_BlockingCollection\CS_BlockingCollection.csproj", "{AB817685-A63E-495C-874D-5D1E6C34A587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_BlockingCollection", "CS_BlockingCollection\CS_BlockingCollection.csproj", "{AB817685-A63E-495C-874D-5D1E6C34A587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_IronPython", "CS_IronPython\CS_IronPython.csproj", "{33FC1625-0A3F-4C03-9F21-B73FFFA92B4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{AB817685-A63E-495C-874D-5D1E6C34A587}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB817685-A63E-495C-874D-5D1E6C34A587}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB817685-A63E-495C-874D-5D1E6C34A587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FC1625-0A3F-4C03-9F21-B73FFFA92B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FC1625-0A3F-4C03-9F21-B73FFFA92B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FC1625-0A3F-4C03-9F21-B73FFFA92B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FC1625-0A3F-4C03-9F21-B73FFFA92B4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
