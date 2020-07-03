@@ -4,7 +4,7 @@ using System;
 
 namespace CS_Roselyn
 {
-    class Program
+    class Program    
     {
         static void Main(string[] args)
         {
